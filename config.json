@@ -1,0 +1,19 @@
+
+{
+  "storeName": "RaizerCell",
+  "address": "Rua Marquês do Herval, 635 – Centro, Taubaté",
+  "paymentMethods": [
+    "Pix",
+    "Cartão de débito",
+    "Cartão de crédito",
+    "PayJoy (entrada de 30% + 9 parcelas quinzenais – simulação presencial)"
+  ],
+  "brands": ["Xiaomi", "Realme", "Samsung", "Motorola", "iPhone"],
+  "warranties": {
+    "Samsung": "garantia de fábrica",
+    "Motorola": "garantia de fábrica",
+    "iPhone": "garantia de fábrica",
+    "Xiaomi": "garantia da loja",
+    "Realme": "garantia da loja"
+  }
+}
