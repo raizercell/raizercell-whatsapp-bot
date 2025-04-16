@@ -1,0 +1,16 @@
+{
+  "name": "raizercell-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Bot inteligente com ChatGPT para atendimento da loja RaizerCell",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "RaizerCell",
+  "license": "MIT",
+  "dependencies": {
+    "venom-bot": "^5.0.1",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  }
+}
